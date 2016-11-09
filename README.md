@@ -1,6 +1,7 @@
 # HotdogStand
 
-<p data-height="386" data-theme-id="0" data-slug-hash="qNwVbB" data-default-tab="result" data-user="brownt4" data-embed-version="2" data-pen-title="Flexbox Cards and Translation" class="codepen">See the Pen <a href="http://codepen.io/brownt4/pen/qNwVbB/">Flexbox Cards and Translation</a> by Thomas Brown (<a href="http://codepen.io/brownt4">@brownt4</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+![Screenshot of Codepen demo](HotdogStand/Images/HotdogScreenshot.PNG?raw=true)
+See the Pen <a href="http://codepen.io/brownt4/pen/qNwVbB/">Flexbox Cards and Translation</a> by Thomas Brown (<a href="http://codepen.io/brownt4">@brownt4</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Purpose
